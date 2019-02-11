@@ -50,11 +50,6 @@
 
     <dependency>
       <groupId>io.vertx</groupId>
-      <artifactId>vertx-config</artifactId>
-      <version>${vertx.version}</version>
-    </dependency>
-    <dependency>
-      <groupId>io.vertx</groupId>
       <artifactId>vertx-config-kubernetes-configmap</artifactId>
       <version>${vertx.version}</version>
     </dependency>
